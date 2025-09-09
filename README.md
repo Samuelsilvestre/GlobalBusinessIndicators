@@ -1,7 +1,5 @@
 # Análise Comparativa de 30 Países: Fatores-Chave para a Facilidade de Negócios
 
-![Dashboard do Projeto](https://placehold.co/800x400/png?text=Preview+do+seu+dashboard)
-
 ## Visão Geral do Projeto
 
 Este projeto tem como objetivo principal a **análise comparativa de 30 países** para identificar os fatores-chave que influenciam a facilidade de se fazer negócios em cada um deles. Utilizando dados como o Índice de Facilidade de Negócios, o Produto Interno Bruto (PIB) e o Índice de Preços ao Consumidor (IPC), o projeto gera visualizações interativas e insights valiosos para gestores, economistas e qualquer pessoa interessada em comércio internacional.
